@@ -45,9 +45,7 @@
   ],
   "work": [
     {
-      "summary": "Developed Go microservices and chaincode for interacting with Hyperledger Fabric blockchain for an e-commerce platform. Set up the blockchain infrastructure and implemented payments with Stripe.
-            Built a Proof of Concept library for interacting with NFC tags and assisted the mobile team in implementing the tag interaction functionality.
-            Took part developing Node.js Koa based microservices for a multi-platform app.",
+      "summary": "Developed Go microservices and chaincode for interacting with Hyperledger Fabric blockchain for an e-commerce platform. Set up the blockchain infrastructure and implemented payments with Stripe.\nBuilt a Proof of Concept library for interacting with NFC tags and assisted the mobile team in implementing the tag interaction functionality.\nTook part developing Node.js Koa based microservices for a multi-platform app.",
       "website": "https://nerdpeople.com/",
       "name": "NerdPeople",
       "location": "London",
