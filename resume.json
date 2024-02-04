@@ -1,5 +1,79 @@
 {
   "meta": {
-    "theme": "elegant"
+    "theme": "kendall"
   },
+  "basics": {
+    "name": "Mykyta Polchanov",
+    "label": "Backend Developer",
+    "image": "https://avatars.githubusercontent.com/u/110892040?v=4",
+    "summary": "Backend Developer with experience working both autonomously and in close cooperation with a team. Due to my product company background I am accustomed to picking up new technologies and roles.",
+    "email": "mykyta.polchanov@gmail.com",
+    "location": {
+      "city": "Kamianets-Podilskyi",
+      "countryCode": "UA"
+    },
+    "profiles": [
+      {
+        "url": "https://www.linkedin.com/in/mykyta-polchanov-748b5924b/",
+        "network": "linkedin"
+      },
+      {
+        "url": "https://github.com/MyyPo",
+        "network": "github",
+        "username": "MyyPo"
+      }
+    ]
+  },
+  "education": [
+    {
+      "startDate": "2018-09-01",
+      "endDate": "2022-07-01",
+      "area": "Germanic Philology",
+      "studyType": "Bachelors",
+      "institution": "Volodymyr Dahl East Ukrainian National University"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": ["Go", "Node / TypeScript", "Rust"],
+      "name": "Backend"
+    },
+    {
+      "keywords": ["Nix / NixOS", "Docker", "Kubernetes", "Linux"],
+      "name": "Operations"
+    }
+  ],
+  "work": [
+    {
+      "summary": "Developed Go microservices and chaincode for interacting with Hyperledger Fabric blockchain for an e-commerce platform. Set up the blockchain infrastructure and implemented payments with Stripe.
+            Built a Proof of Concept library for interacting with NFC tags and assisted the mobile team in implementing the tag interaction functionality.
+            Took part developing Node.js Koa based microservices for a multi-platform app.",
+      "website": "https://nerdpeople.com/",
+      "name": "NerdPeople",
+      "location": "London",
+      "position": "Junior Backend Developer",
+      "startDate": "2023-05-15",
+      "highlights": [
+        "Go",
+        "Hyperledger Fabric",
+        "NFC",
+        "Stripe",
+        "Node / TypeScript"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Open Source"
+    },
+    {
+      "name": "Linux desktop"
+    },
+    {
+      "name": "Ergonomic keyboards"
+    },
+    {
+      "name": "Gym"
+    }
+  ]
 }
